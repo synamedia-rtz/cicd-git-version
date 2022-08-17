@@ -12,7 +12,7 @@ inputs:
   release-branch:
     description: 'The name of the release branch'
     required: true
-    default: master
+    default: main
   dev-branch:
     description: 'The name of the dev branch'
     required: true
